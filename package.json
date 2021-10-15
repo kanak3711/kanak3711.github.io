@@ -2,7 +2,7 @@
   "name": "final-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kanak3711.github.io/projects",
+  "homepage": "https://kanak3711.github.io/",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
