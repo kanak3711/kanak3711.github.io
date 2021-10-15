@@ -8,7 +8,7 @@ const portfolios = [
         category: 'Blockchain Solidity Ethereum',
         image: css1,
         link1: 'https://github.com/kanak3711/Clear_Coin',
-        link2: 'https://www.google.com',
+        link2: 'http://clear-coin.vercel.app/',
         title: 'Clear Coin',
         text: 'A web app built on Ethereum Blockchain using Solidity and React.js.'
     },
@@ -27,8 +27,8 @@ const portfolios = [
         image: img2,
         link1: 'https://github.com/kanak3711/Dynastock',
         link2: 'https://www.google.com',
-        title: 'Dyna StockOrder book for stock exchange',
-        text: 'Order book for stock exchange'
+        title: 'Dyna Stock',
+        text: 'Order book for stock exchange using Vue.js'
     }
 ]
 
